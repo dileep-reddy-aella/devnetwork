@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://saidileep:saidileep@cluster0.twx4d.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "jwtKey": "webtokenkey"
-}
